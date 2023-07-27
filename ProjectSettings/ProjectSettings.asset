@@ -154,6 +154,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
+    Android: com.DefaultCompany.InteriAR
     Standalone: com.DefaultCompany.com.unity.template.ar
   buildNumber:
     Bratwurst: 0
