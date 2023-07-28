@@ -639,7 +639,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 19a134ab600a3054b98844f40848889f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  furniture: {fileID: 919132149155446097, guid: 741b923f69ee624489b7949b17a6d894,
+  furniture: {fileID: 7676579468200645129, guid: 850bcde3c31aed7439baa9f5b24c57ca,
     type: 3}
 --- !u!4 &888055236
 Transform:
@@ -1080,7 +1080,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: afbeb9c789312ae46a2351c53d434c33, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  furniture: {fileID: 6053873861092733037, guid: 7eaf5fa5f0b960e4dbdbbf6d4a8d3e8c,
+  furniture: {fileID: 7064239213029151022, guid: a755b010601069d46bf3e08e54923228,
     type: 3}
 --- !u!1 &1715748020
 GameObject:
@@ -1297,7 +1297,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: afbeb9c789312ae46a2351c53d434c33, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  furniture: {fileID: 5969671011091849913, guid: 3c29d67b078119340ac2b9c42423c516,
+  furniture: {fileID: 7676579468200645129, guid: 850bcde3c31aed7439baa9f5b24c57ca,
     type: 3}
 --- !u!1 &1779363941
 GameObject:
@@ -1480,7 +1480,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: afbeb9c789312ae46a2351c53d434c33, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  furniture: {fileID: 7246774562462316210, guid: 7539ce11c8948a343aadecad0c27e533,
+  furniture: {fileID: 6663489609785302805, guid: 5199332e58ebb9e4bb75a3a29b07317d,
     type: 3}
 --- !u!4 &212175866532230322
 Transform:
