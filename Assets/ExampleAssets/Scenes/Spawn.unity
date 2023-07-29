@@ -967,7 +967,7 @@ MonoBehaviour:
   UIArrows: {fileID: 802719326}
   placementIndicator: {fileID: 85875189}
   arModels:
-  - {fileID: 661904167364118790, guid: 21dbbc89666e93849a83030a18c85874, type: 3}
+  - {fileID: 8174551165622957805, guid: 05735b586328fca4b91675d816ec7aaa, type: 3}
   - {fileID: 7064239213029151022, guid: a755b010601069d46bf3e08e54923228, type: 3}
   - {fileID: 5831182232030545878, guid: 850bcde3c31aed7439baa9f5b24c57ca, type: 3}
 --- !u!4 &1847576608
