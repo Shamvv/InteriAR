@@ -23,4 +23,7 @@ public class SceneChange : MonoBehaviour
     public void Measure(){
         SceneManager.LoadScene("measurement");
     }
+    public void MeasuretoPannel(){
+        SceneManager.LoadScene("UI");
+    }
 }
