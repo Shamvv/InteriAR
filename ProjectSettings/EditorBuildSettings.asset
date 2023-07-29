@@ -11,12 +11,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/ExampleAssets/Scenes/measurement.unity
     guid: 4a62b6421fc66f74693df4055711fa6b
-  - enabled: 1
+  - enabled: 0
     path: Assets/ExampleAssets/Scenes/SpawnObject.unity
     guid: d13edace042547f45a8178f9db293366
   - enabled: 0
     path: Assets/ExampleAssets/Scenes/UI.unity
     guid: d1f2740b68f3f4ce281c474f6a353d6f
+  - enabled: 1
+    path: Assets/ExampleAssets/Scenes/Spawn.unity
+    guid: 947882587a15b54408e14877a0f3d6c2
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
       type: 2}

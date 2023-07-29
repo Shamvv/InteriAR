@@ -31,12 +31,12 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: a74ecc5b7649fc2408beefbfd03d7edb,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a74ecc5b7649fc2408beefbfd03d7edb,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a74ecc5b7649fc2408beefbfd03d7edb,
         type: 3}
@@ -51,7 +51,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: a74ecc5b7649fc2408beefbfd03d7edb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
+      value: -90
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a74ecc5b7649fc2408beefbfd03d7edb,
         type: 3}
@@ -73,6 +73,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: bar_stool Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a74ecc5b7649fc2408beefbfd03d7edb,
+        type: 3}
+      propertyPath: m_TagString
+      value: ARMultiModel
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -80,15 +85,15 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: a74ecc5b7649fc2408beefbfd03d7edb,
         type: 3}
       insertIndex: -1
-      addedObject: {fileID: 538368161394790514}
+      addedObject: {fileID: 53}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: a74ecc5b7649fc2408beefbfd03d7edb,
         type: 3}
       insertIndex: -1
-      addedObject: {fileID: 4409845498344337459}
+      addedObject: {fileID: 55}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: a74ecc5b7649fc2408beefbfd03d7edb,
         type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1384992930856226131}
+      addedObject: {fileID: 54}
   m_SourcePrefab: {fileID: 100100000, guid: a74ecc5b7649fc2408beefbfd03d7edb, type: 3}
 --- !u!1 &661904167364118790 stripped
 GameObject:
@@ -96,7 +101,7 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 427533571840537687}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &538368161394790514
+--- !u!114 &53
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -119,7 +124,7 @@ MonoBehaviour:
   sensitivity: 1
   damping: -1
   remainingScale: {x: 0, y: 0, z: 0}
---- !u!114 &4409845498344337459
+--- !u!114 &55
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -142,7 +147,7 @@ MonoBehaviour:
   damping: -1
   inertia: 0
   remainingTranslation: {x: 0, y: 0, z: 0}
---- !u!114 &1384992930856226131
+--- !u!114 &54
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
