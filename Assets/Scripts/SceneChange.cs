@@ -18,7 +18,7 @@ public class SceneChange : MonoBehaviour
         
     }
     public void Spawn(){
-        SceneManager.LoadScene("SpawnObject");
+        SceneManager.LoadScene("Spawn");
     }
     public void Measure(){
         SceneManager.LoadScene("measurement");
